@@ -1,0 +1,21 @@
+# API Keys - NEVER push
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB storage
+chroma_db/
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+escalation_log.json
+
+# OS files
+.DS_Store
+Thumbs.db
