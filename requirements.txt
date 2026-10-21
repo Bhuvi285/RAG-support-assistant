@@ -1,9 +1,11 @@
+streamlit
 langchain
 langchain-community
 langchain-groq
 langgraph
+langchain-chroma
+langchain-text-splitters
 chromadb
 sentence-transformers
-streamlit
 pypdf
 python-dotenv
